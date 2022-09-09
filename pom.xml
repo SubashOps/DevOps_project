@@ -22,7 +22,7 @@
                <version>2.2</version>
            </dependency>
        </dependencies>
-       <!-- end::joda[] -->
+       <!-- home -->
        
     <build>
         <plugins>
